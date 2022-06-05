@@ -1,0 +1,4 @@
+C:\Users\joel\Documents\C++\ProjectGUI\ProjectGUI\x64\Debug\ProjectGUI.vcxproj.AssemblyReference.cache
+C:\Users\joel\Documents\C++\ProjectGUI\ProjectGUI\x64\Debug\ProjectGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\joel\Documents\C++\ProjectGUI\ProjectGUI\x64\Debug\ProjectGUI.MainForm.resources
+C:\Users\joel\Documents\C++\ProjectGUI\ProjectGUI\x64\Debug\ProjectGUI.vcxproj.GenerateResource.cache
